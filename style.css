@@ -83,3 +83,9 @@ footer{
     align-items: center;
     
 }
+
+
+footer img{
+    max-width: 70%;
+    margin: 10px auto;
+}
