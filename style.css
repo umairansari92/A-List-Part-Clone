@@ -39,3 +39,47 @@ nav{
     max-width: 50%;
     margin: auto;
 }
+
+
+.paragraph{
+    font: 14px;
+}
+
+.para-footer{
+    font-size: 10px;
+}
+
+footer{
+    background-color: #ededed;
+}
+.footer-links{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.footer-links ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-links ul li{
+    list-style: none;
+    margin: 5px;
+}
+
+.footer-links ul li a{
+    text-decoration: none;
+}
+
+.promo{
+    max-width: 50%;
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+    
+}
