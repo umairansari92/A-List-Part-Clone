@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 100%;
+
+}
+
+
+nav{
+    max-width: 100%;
+    justify-content: space-around;
+}
+
+.main-container{
+
+    width: 70%;
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin: auto auto;
+}
+
+.hero > img{
+    height: auto;
+    max-width: 100%;
+}
+
+
+.entrys {
+    max-width: 50%;
+    margin: auto;
+}
